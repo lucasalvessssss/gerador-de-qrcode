@@ -23,13 +23,15 @@ Projeto simples em **Node.js** que permite gerar um **QR Code** ou uma **senha a
 ---
 
 ## 📁 Estrutura
+
+```
 src/
 ├── index.js
 ├── prompts/
 ├── services/
-│ ├── qrcode/
-│ └── password/
-
+│   ├── qrcode/
+│   └── password/
+```
 
 ---
 
